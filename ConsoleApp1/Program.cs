@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("cAlculat");
             Console.WriteLine("Введите первое слово");
             string s1 = Console.ReadLine();
-            Console.WriteLine("Введите второе слово");
+            Console.WriteLine("Введите второе слово ");
             string s2 = Console.ReadLine();
             string sum = s1 + " " + s2;
             Console.WriteLine(sum);
